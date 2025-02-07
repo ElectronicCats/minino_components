@@ -1,0 +1,1 @@
+# minino_components
